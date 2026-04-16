@@ -1,0 +1,57 @@
+C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/sbox.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/sbox.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module sbox
+
+Top level modules:
+	sbox
+
+} {} {}} C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/AES_Encrypt.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/AES_Encrypt.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AES_Encrypt
+
+Top level modules:
+	AES_Encrypt
+
+} {} {}} C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/encryptRound.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/encryptRound.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module encryptRound
+
+Top level modules:
+	encryptRound
+
+} {} {}} C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/shiftRows.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/shiftRows.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module shiftRows
+
+Top level modules:
+	shiftRows
+
+} {} {}} C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/subBytes.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/subBytes.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module subBytes
+
+Top level modules:
+	subBytes
+
+} {} {}} C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/addRoundKey.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/addRoundKey.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module addRoundKey
+
+Top level modules:
+	addRoundKey
+
+} {} {}} C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/keyExpansion.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/keyExpansion.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module keyExpansion
+
+Top level modules:
+	keyExpansion
+
+} {} {}} C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/mixColumns.v {1 {vlog -work work -vopt -stats=none C:/Users/Lenovo/Desktop/Digital/Sherif-Hosny-Diploma/Project/AES-Verilog-main/AES_Encrypt_only/mixColumns.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mixColumns
+
+Top level modules:
+	mixColumns
+
+} {} {}}
